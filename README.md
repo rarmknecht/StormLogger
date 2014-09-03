@@ -15,8 +15,6 @@ Usage
 
 It's dead simple to use. Below demonstrates how to attach it.  Be sure to replace *** with your own codes that can be found in the data section of your project's console in Splunk Storm.
 
-::
-
 
     import logging
     from storm_logger import StormLogger
